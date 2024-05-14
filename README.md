@@ -1,5 +1,5 @@
 # Prodigy_InfoTech
-Task1
+Task1: 
 To implement a linear regression model for predicting house prices based on square footage, number of bedrooms, and number of bathrooms, follow these steps:
 
 Gather Data: Collect a dataset containing information about houses, including their square footage, number of bedrooms, number of bathrooms, and corresponding prices.
